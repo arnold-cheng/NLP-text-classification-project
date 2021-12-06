@@ -1,2 +1,9 @@
 fastbook
-python 
+fastai
+python3
+numpy
+pandas
+bs4
+os
+matplotlib.pyplot
+seaborn
